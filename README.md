@@ -47,16 +47,3 @@ We convert the video frame to HSV color space (better for detecting color) and g
 
 9. The result: a live virtual drawing that follows your marker in air!
 
-
-
-
----
-
-💡 Why the name Air Doodle?
-
-Unlike traditional input tools, here you’re “doodling” directly in the air — no mouse, no touch screen, just gestures + computer vision magic.
-
-
----
-
-Would you like this formatted as a README.md for GitHub?
